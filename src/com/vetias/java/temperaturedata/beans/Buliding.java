@@ -1,6 +1,6 @@
 package src.com.vetias.java.temperaturedata.beans;
 import java.util.LocalDateTime;
-public class Building {
+public class Buliding {
     private String name;
     private double area;
     private int  floors;
