@@ -71,5 +71,7 @@ public class Location {
                 ", contact='" + country + '\'' +
                 '}';
     }
+}               
     
-}
+
+    
