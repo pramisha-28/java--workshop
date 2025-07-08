@@ -12,14 +12,15 @@ public class NameGenerated {
         System.out.println("enter your qualification");
         String qualification=input.next();
         StringBuilder sb=new StringBuilder();
-        if("female".equalsIgnoreCase(gender));
-        {
+        if ("female".equalsIgnoreCase(gender)); {
+        
             sb.append("Ms.").append (gender);
             String result=sb.toString();
             System.out.println(result);
         }
         if ("male".equalsIgnoreCase(gender))
-        {
+         {
+        
             sb.append("Mr.").append (gender);
             String result=sb.toString();
             System.out.println(result);
