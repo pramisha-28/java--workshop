@@ -6,9 +6,9 @@ import org.junit.jupiter.api.Assertions;
 
 import com.vetias.java.workshop.lambda.Square;
 
-public class SquareTest {
+public class SquareTest{
 
-@Test
+    @Test
     public void testSquare()
     { 
         Square square=(int x) -> x*x;
