@@ -1,6 +1,6 @@
 package com.vetias.java.workshop.Collections;
 
-public class Stusent {
+public class StusentSet {
     public static void main(String[]args){
         String[] [] students =
     {
