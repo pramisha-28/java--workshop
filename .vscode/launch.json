@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "JDBCExample",
+            "request": "launch",
+            "mainClass": "JDBCExample",
+            "projectName": "java-workshop"
+        },
+        {
+            "type": "java",
+            "name": "StringExample",
+            "request": "launch",
+            "mainClass": "StringExample",
+            "projectName": "java-workshop"
+        },
+        {
+            "type": "java",
+            "name": "JCBCEXample",
+            "request": "launch",
+            "mainClass": "JCBCEXample",
+            "projectName": "java-workshop"
+        },
+        {
+            "type": "java",
+            "name": "name/JCBCEXample",
+            "request": "launch",
+            "mainClass": "name/JCBCEXample",
+            "projectName": "java-workshop"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayStream",
+            "request": "launch",
+            "mainClass": "name/com.vetias.java.workshop.Collections.ArrayStream",
+            "projectName": "java-workshop"
+        },
+        {
+            "type": "java",
+            "name": "ListExample",
+            "request": "launch",
+            "mainClass": "name/com.vetias.java.workshop.Collections.ListExample",
+            "projectName": "java-workshop"
+        },
+        {
+            "type": "java",
+            "name": "ListMarks",
+            "request": "launch",
+            "mainClass": "name/com.vetias.java.workshop.Collections.ListMarks",
+            "projectName": "java-workshop"
+        },
+        {
+            "type": "java",
+            "name": "NamesStartWithSCount",
+            "request": "launch",
+            "mainClass": "name/com.vetias.java.workshop.Collections.NamesStartWithSCount",
+            "projectName": "java-workshop"
+        },
+        {
+            "type": "java",
+            "name": "StreamUpperCaseNames",
+            "request": "launch",
+            "mainClass": "name/com.vetias.java.workshop.Collections.StreamUpperCaseNames",
+            "projectName": "java-workshop"
+        },
+        {
+            "type": "java",
+            "name": "StudentMap",
+            "request": "launch",
+            "mainClass": "name/com.vetias.java.workshop.Collections.StudentMap",
+            "projectName": "java-workshop"
+        },
+        {
+            "type": "java",
+            "name": "StusentSet",
+            "request": "launch",
+            "mainClass": "name/com.vetias.java.workshop.Collections.StusentSet",
+            "projectName": "java-workshop"
+        }
+    ]
+}
