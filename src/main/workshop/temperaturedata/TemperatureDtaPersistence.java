@@ -5,3 +5,4 @@ public class TemperatureDtaPersistence {
         Location vetias = new Location();
         
     }
+}

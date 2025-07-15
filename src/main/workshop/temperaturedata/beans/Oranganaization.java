@@ -2,10 +2,9 @@ package src.com.vetias.java.temperaturedata.beans;
 
 import java.time.LocalDate;
 
-public record Organization(String name,
-    
-        String CompleteAddress,
-        String Website,
+public record Oranganaization(String name,
+        String completeAddress,
+        String website,
         String email,
         String contactNumber,
         long registrationNumber,
